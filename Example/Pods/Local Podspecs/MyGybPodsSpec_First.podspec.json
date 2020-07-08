@@ -1,0 +1,22 @@
+{
+  "name": "MyGybPodsSpec_First",
+  "version": "0.1.0",
+  "summary": "A short description of MyGybPodsSpec_First.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/264798213@qq.com/MyGybPodsSpec_First",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "264798213@qq.com": "guoyabin2@yy.com"
+  },
+  "source": {
+    "git": "https://github.com/264798213@qq.com/MyGybPodsSpec_First.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyGybPodsSpec_First/Classes/**/*"
+}

@@ -7,6 +7,8 @@
 //
 
 #import "GYBPODViewController.h"
+#import <GYBUtil.h>
+
 
 @interface GYBPODViewController ()
 
@@ -18,6 +20,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    [GYBUtil printDemo1];
 }
 
 - (void)didReceiveMemoryWarning

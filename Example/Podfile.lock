@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - MyGybPodsSpec_First (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - MyGybPodsSpec_First (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  MyGybPodsSpec_First:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  MyGybPodsSpec_First: 55806680984284797a9c5a165cc3510cbaa483a7
+
+PODFILE CHECKSUM: 2211433db9afa0fedbaab3fa5177539fdbe25884
+
+COCOAPODS: 1.9.1

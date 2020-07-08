@@ -1,0 +1,6 @@
+framework module MyGybPodsSpec_First {
+  umbrella header "MyGybPodsSpec_First-umbrella.h"
+
+  export *
+  module * { export * }
+}
